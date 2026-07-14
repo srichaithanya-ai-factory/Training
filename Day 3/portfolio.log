@@ -1,0 +1,6 @@
+2026-07-14 18:32:13,366 - INFO - Fetching live crypto prices from CoinGecko API...
+2026-07-14 18:32:15,540 - INFO - Execution of fetch_live_prices took 2.17 seconds.
+2026-07-14 18:32:15,549 - INFO - Report successfully saved and closed via Context Manager.
+2026-07-14 18:37:21,084 - INFO - Connecting to CoinGecko API to fetch live prices...
+2026-07-14 18:37:21,986 - INFO - Execution of 'fetch_live_prices' took 0.90 seconds.
+2026-07-14 18:37:21,991 - INFO - Report file successfully closed by the Context Manager.
