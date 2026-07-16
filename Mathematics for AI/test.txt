@@ -1,0 +1,107 @@
+Mathematics for AI
+
+1. Linear Algebra Basics
+Linear Algebra is the branch of mathematics used to work with vectors and matrices.
+It is the foundation of Machine Learning and Deep Learning.
+AI models use linear algebra to represent and process data efficiently.
+Most neural network calculations are based on linear algebra.
+
+2. Scalars, Vectors, Matrices, and Tensors
+
+Scalar
+A scalar is a single number.
+It has no direction or dimensions.
+
+Vector
+A vector is a list of numbers.
+It has one dimension (1D).
+Used to represent features, word embeddings, or coordinates.
+
+Tensor
+A tensor is a multi-dimensional array (3D or higher).
+Used in Deep Learning to represent images, videos, and batches of data.
+
+4. Eigenvalues (Concept)
+An eigenvalue tells us how much a vector is stretched or shrunk when multiplied by a matrix.
+The corresponding eigenvector keeps the same direction after the transformation.
+You don't need to calculate them manually at the beginner level.
+
+Used in:
+
+Principal Component Analysis (PCA)
+Image Compression
+Face Recognition
+Data Reduction
+
+5. Probability Fundamentals
+Probability measures the chance of an event happening.
+Probability values range from 0 to 1.
+
+
+6. Bayes Theorem
+
+Bayes Theorem updates the probability of an event when new information becomes available.
+
+Example:
+
+Spam email detection
+Medical diagnosis
+Fraud detection
+
+7. Mean, Median, and Mode
+
+These are called measures of central tendency because they describe the center of a dataset.
+
+8. Variance and Standard Deviation
+
+Variance
+
+Measures how spread out the data is from the mean.
+Larger variance means data is more scattered.
+
+Standard Deviation
+
+Square root of the variance.
+Easier to understand because it is in the same unit as the data.
+Interpretation
+
+Small standard deviation:
+
+Data points are close to the mean.
+
+Large standard deviation:
+
+Data points are spread far from the mean.
+
+Used in:
+
+Data analysis
+Feature scaling
+Detecting unusual values (outliers)
+
+9. Correlation
+Correlation measures the relationship between two variables.
+It tells us whether two variables move together.
+
+10. Normal Distribution
+A normal distribution is a bell-shaped curve.
+Most values are near the mean.
+Very high and very low values are rare.
+
+Characteristics:
+
+Symmetrical
+Mean = Median = Mode
+Bell-shaped
+
+11. Introduction to Calculus (Gradients)
+Calculus studies how values change.
+A gradient tells us the direction in which a function changes the fastest.
+In AI, gradients help models learn by reducing errors.
+
+Example:
+
+A neural network makes a prediction.
+It calculates the error.
+The gradient shows how to adjust the weights.
+The model updates the weights to improve future predictions.
