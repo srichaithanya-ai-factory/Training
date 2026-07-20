@@ -1,2 +1,23 @@
 Line 1: Learning Python
 Line 2: File handling is easy
+
+
+from abc import ABC, abstractmethod
+class A(ABC):
+    @abstractmethod
+    def method1(self):
+        pass
+    def method2(self):
+        print("ehhh concreate")
+    @abstractmethod  
+    def method3(self):
+        pass
+    
+class B(A):
+    def method1(self):
+        print("method1 Implemented in subclass")
+    def method3(self):
+        print("Method2 is Implemented in sub class")
+a=B()
+a.method1()
+a.method3()

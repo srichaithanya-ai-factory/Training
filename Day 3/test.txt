@@ -1,0 +1,4 @@
+A decorator feature in Python wraps in a function, appends several functionalities to existing code and then returns it. Methods and functions are known to be callable as they can be called. Therefore, a decorator is also a callable that returns callable. This is also known as metaprogramming as at compile time a section of program alters another section of the program. Note: For more information, refer to Decorators in Python
+
+Python @property decorator
+@property decorator is a built-in decorator in Python which is helpful in defining the properties effortlessly without manually calling the inbuilt function property(). Which is used to return the property attributes of a class from the stated getter, setter and deleter as parameters. Now, lets see some examples to illustrate the use of @property decorator in Python: Example
