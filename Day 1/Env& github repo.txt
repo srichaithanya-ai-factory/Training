@@ -1,0 +1,55 @@
+A Virtual Environment (venv) is an isolated Python environment that allows you to install project-specific packages without affecting the global Python installation.
+
+Why use a Virtual Environment?
+Keeps project dependencies separate.
+Avoids package version conflicts.
+Makes projects portable and reproducible.
+Simplifies dependency management.
+
+# Create a virtual environment
+python -m venv venv
+
+# Activate (Windows)
+venv\Scripts\activate
+
+# Activate (Linux/macOS)
+source venv/bin/activate
+
+# Install packages
+pip install package_name
+
+# Save dependencies
+pip freeze > requirements.txt
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Deactivate
+deactivate
+
+
+A GitHub Repository (Repo) is an online storage space on GitHub that contains your project's source code, files, version history, and collaboration tools.
+
+# Initialize Git
+git init
+
+# Add files
+git add .
+
+# Commit changes
+git commit -m "Initial commit"
+
+# Connect to GitHub repository
+git remote add origin <repository_url>
+
+# Push code
+git push -u origin main
+
+# Clone a repository
+git clone <repository_url>
+
+# Pull latest changes
+git pull origin main
+
+# Check status
+git status

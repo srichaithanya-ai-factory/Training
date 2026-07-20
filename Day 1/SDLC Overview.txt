@@ -1,0 +1,39 @@
+SDLC is a structured process used to develop high-quality software efficiently.
+It defines the stages involved in planning, building, testing, deploying, and maintaining software.
+Helps deliver software on time, within budget, and with fewer defects.
+Improves project planning, quality, and team collaboration.
+
+Phases of SDLC
+Requirement Gathering & Analysis
+
+Collect business and user requirements.
+Analyze feasibility and define project scope.
+
+Planning
+
+Estimate cost, time, resources, and risks.
+Create the project plan and schedule.
+
+Design
+
+Design the system architecture, database, UI, and workflows.
+Prepare technical specifications.
+
+Development (Implementation)
+
+Write and integrate the application code.
+Follow coding standards and best practices.
+
+Testing
+
+Identify and fix bugs.
+Verify that the software meets the requirements.
+
+Deployment
+
+Release the software to users or production.
+Configure the production environment.
+
+Maintenance
+Fix issues after release.
+Provide updates, enhancements, and performance improvements.

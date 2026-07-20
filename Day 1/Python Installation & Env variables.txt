@@ -1,0 +1,18 @@
+Python Installation
+Download Python from python.org.
+Run the Python installer.
+Select "Add Python to PATH".
+Click Install Now.
+Complete the installation.
+
+Verify Installation
+Check Python version:
+python --version
+
+
+Environment Variables (PATH)
+PATH is an environment variable that tells the operating system where to find executable programs.
+Adding Python to PATH allows you to run python and pip from any terminal or command prompt.
+If Python is not recognized, manually add these folders to the PATH:
+C:\Users\91949\AppData\Local\Programs\Python\Python3.11\
+C:\Users\91949\AppData\Local\Programs\Python\Python3.11\Scripts\

@@ -1,0 +1,4 @@
+AI: Focuses on making machines intelligent.
+ML: Learns patterns from data to make predictions or decisions.
+DL: Uses deep neural networks to solve complex problems.
+GenAI: Generates new content such as text, images, music, videos, and code.
